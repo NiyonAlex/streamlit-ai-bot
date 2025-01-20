@@ -33,7 +33,7 @@ To run the project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/thoughtful-ai-support-agent.git
+   git clone https://github.com/NiyonAlex/streamlit-ai-bot
 
 2. Install packages:
     ```bash
@@ -44,4 +44,4 @@ To run the project locally, follow these steps:
     streamlit run app.py
 
 ## Deploying Service
-    You can experience this app from url: https://thoughtfulai-customer-bot.streamlit.app/
+    You can experience this app from url: https://niyonalex-ai-thoughtful.streamlit.app/
